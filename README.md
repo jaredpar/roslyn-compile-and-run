@@ -1,8 +1,8 @@
 # Compile, Load and Run
 
-This is a sample application demonstrating how you can compile C# code on the fly, load it into an `AssemblyLoadContext` and execute it.
+This is a quick sample application demonstrating how you can compile C# code on the fly, load it into an `AssemblyLoadContext` and execute it.
 
-For example: 
+For example:
 
 ```cmd
 > dotnet run
