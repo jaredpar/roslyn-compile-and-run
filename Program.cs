@@ -11,6 +11,7 @@ var text = new StringBuilder();
 while (true)
 {
     Console.WriteLine("Enter C# code type 'end' to finish: ");
+    text.Length = 0;
     while (Console.ReadLine() is var line && line != "end")
     {
         text.AppendLine(line);

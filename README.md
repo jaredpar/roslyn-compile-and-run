@@ -16,7 +16,6 @@ Enter C# code type 'end' to finish:
 Console.WriteLine(DateTime.Now);
 end
 Compiling ... Runnning ... 
-Hello World
 8/22/2024 4:13:49 PM
 
 Enter C# code type 'end' to finish:
